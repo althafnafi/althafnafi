@@ -1,5 +1,5 @@
 # 🔭 About Me
-I'm Althaf, a second year Computer Engineering student at Universitas Indonesia<br><br>
+I'm Althaf, a second year Computer Engineering student at Universitas Indonesia<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/althafnafi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/althafnafi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/althafnaa) 
 
